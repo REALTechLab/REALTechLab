@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=REALTechLab&label=Profile views&color=0e75b6&style=flat" alt="REALTechLab" /> </p>
 
-- 🔭 I'm currently working on **Institute of Aerospace Engineering and Technology - Duy Tan University**
+- 🔭 I'm currently working on **[Institute of Aerospace Engineering and Technology - Duy Tan University](https://iae.duytan.edu.vn)**
 
 - 💬 Ask me about **C++, C#, Gazebo Sim, ROS2**
 
 - 📫 How to reach me **tranthangdong@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://cee.duytan.edu.vn/nhan-su/1-tran-le-thang-dong](https://cee.duytan.edu.vn/nhan-su/1-tran-le-thang-dong)**
+- 👨‍💻 All of my projects are available at **[My profile](https://iae.duytan.edu.vn/nhan-su/1-tran-le-thang-dong)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
