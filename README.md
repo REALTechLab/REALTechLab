@@ -18,7 +18,7 @@
 
 <h3 align="left">Sponsors:</h3>
 <p align="center">
-<img src="imgs/sponsors.jpg" alt="" width="100%" />
+<img src="imgs/sponsors.jpg" alt="" width="20%" />
 </p>
 
 <h3 align="left">Connect with us:</h3>
