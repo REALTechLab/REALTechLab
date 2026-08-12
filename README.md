@@ -1,4 +1,4 @@
-# Hi 👋, I'm REALTechLab
+# Hi 👋, We're REALTechLab
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=REALTechLab&label=Profile views&color=0e75b6&style=flat" alt="REALTechLab" /> </p>
 
@@ -11,6 +11,12 @@
 - 👨‍💻 All of my projects are available at **[My profile](https://iae.duytan.edu.vn/nhan-su/1-tran-le-thang-dong)**
 
 <h3 align="left">Members:</h3>
+|                                                                                                                    |                                         |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
+| ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/200c4d4e52848041d91204ade1d67769fe8792bf4def51f0.jpg) | Name: Dr. Dong LT. TranRole: Director   |
+| ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/9385ce26ff58af54c8d1a2a0e81be355d1dc430d114fed63.jpg) | Name: Dr. Hoang T. TranRole: Researcher |
+| ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/6d3be33e6a6d0e9215178988a2c2b1bb3269939daf507167.jpg) | Name: Thanh C. VoRole: Researcher       |
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
