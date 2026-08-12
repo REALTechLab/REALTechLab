@@ -13,7 +13,6 @@
 <h3 align="left">Members:</h3>
 
 <p align="center">
-<img src="imgs/iaedtu.jpg" alt="" width="20%" />
 <img src="imgs/tltd.jpg" alt="" width="20%" />
 <img src="imgs/tth.jpg" alt="" width="20%" />
 <img src="imgs/vct.jpg" alt="" width="20%" />
@@ -21,7 +20,7 @@
 
 <h3 align="left">Sponsors:</h3>
 <p align="center">
-<img src="imgs/iaedtu.jpg" alt="" width="20%" />
+<img src="imgs/iaedtu.jpg" alt="" width="40%" />
 </p>
 
 <h3 align="left">Connect with us:</h3>
