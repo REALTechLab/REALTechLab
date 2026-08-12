@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of our research areas/projects are available at **[My profile](https://iae.duytan.edu.vn/nhan-su/1-tran-le-thang-dong)**
 
-<h3 align="left">Members:</h3>
+<h3 align="left">Core Members:</h3>
 
 <p align="center">
 <img src="imgs/tltd.jpg" alt="" width="20%" />
