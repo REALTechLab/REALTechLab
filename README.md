@@ -11,14 +11,19 @@
 - 👨‍💻 All of my projects are available at **[My profile](https://iae.duytan.edu.vn/nhan-su/1-tran-le-thang-dong)**
 
 <h3 align="left">Members:</h3>
-|                                                                                                                    |                                         |
-| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
-| ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/200c4d4e52848041d91204ade1d67769fe8792bf4def51f0.jpg) | Name: Dr. Dong LT. TranRole: Director   |
-| ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/9385ce26ff58af54c8d1a2a0e81be355d1dc430d114fed63.jpg) | Name: Dr. Hoang T. TranRole: Researcher |
-| ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/6d3be33e6a6d0e9215178988a2c2b1bb3269939daf507167.jpg) | Name: Thanh C. VoRole: Researcher       |
 
+<p align="center">
+<img src="imgs/tltd.jpg" alt="" width="20%" />
+<img src="imgs/tth.jpg" alt="" width="20%" />
+<img src="imgs/vct.jpg" alt="" width="20%" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Sponsors:</h3>
+<p align="center">
+<img src="imgs/iaedtu.jpg" alt="" width="40%" />
+</p>
+
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://github.com/REALTechLab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="REALTechLab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roytran-danang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roytran-danang/" height="30" width="40" /></a>
