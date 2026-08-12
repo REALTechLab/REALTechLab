@@ -11,12 +11,13 @@
 - 👨‍💻 All of my projects are available at **[My profile](https://iae.duytan.edu.vn/nhan-su/1-tran-le-thang-dong)**
 
 <h3 align="left">Members:</h3>
-|                                                                                                                    |                                         |
-| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
-| ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/200c4d4e52848041d91204ade1d67769fe8792bf4def51f0.jpg) | Name: Dr. Dong LT. TranRole: Director   |
-| ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/9385ce26ff58af54c8d1a2a0e81be355d1dc430d114fed63.jpg) | Name: Dr. Hoang T. TranRole: Researcher |
-| ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/6d3be33e6a6d0e9215178988a2c2b1bb3269939daf507167.jpg) | Name: Thanh C. VoRole: Researcher       |
 
+<p align="center">
+<img src="imgs/iaedtu.jpg" alt="" width="20%" />
+<img src="imgs/tltd.jpg" alt="" width="20%" />
+<img src="imgs/tth.jpg" alt="" width="20%" />
+  <img src="imgs/vct.jpg" alt="" width="20%" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
