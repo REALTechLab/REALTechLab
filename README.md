@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=REALTechLab&label=Profile views&color=0e75b6&style=flat" alt="REALTechLab" /> </p>
 
-- 💬 Ask me about **C++, C#, Gazebo Sim, ROS2**
+- 💬 Ask me about **C++, C#, Gazebo Sim, ROS2, UAV, Robotics**
 
 - 📫 How to reach us **tranthangdong@gmail.com**
 
