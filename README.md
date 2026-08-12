@@ -2,6 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=REALTechLab&label=Profile views&color=0e75b6&style=flat" alt="REALTechLab" /> </p>
 
+<h3 align="left">Sponsors:</h3>
+<p align="center">
+<img src="imgs/sponsors.jpg" alt="" width="40%" />
+</p>
+
 - 🔭 I'm currently working on **[Institute of Aerospace Engineering and Technology - Duy Tan University](https://iae.duytan.edu.vn)**
 
 - 💬 Ask me about **C++, C#, Gazebo Sim, ROS2**
@@ -18,10 +23,7 @@
 <img src="imgs/vct.jpg" alt="" width="20%" />
 </p>
 
-<h3 align="left">Sponsors:</h3>
-<p align="center">
-<img src="imgs/iaedtu.jpg" alt="" width="40%" />
-</p>
+
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
