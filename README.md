@@ -2,18 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=REALTechLab&label=Profile views&color=0e75b6&style=flat" alt="REALTechLab" /> </p>
 
-<h3 align="left">Sponsors:</h3>
-<p align="center">
-<img src="imgs/sponsors.jpg" alt="" width="40%" />
-</p>
-
-- 🔭 I'm currently working on **[Institute of Aerospace Engineering and Technology - Duy Tan University](https://iae.duytan.edu.vn)**
-
 - 💬 Ask me about **C++, C#, Gazebo Sim, ROS2**
 
-- 📫 How to reach me **tranthangdong@gmail.com**
+- 📫 How to reach us **tranthangdong@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[My profile](https://iae.duytan.edu.vn/nhan-su/1-tran-le-thang-dong)**
+- 👨‍💻 All of our research areas/projects are available at **[My profile](https://iae.duytan.edu.vn/nhan-su/1-tran-le-thang-dong)**
 
 <h3 align="left">Members:</h3>
 
@@ -23,7 +16,10 @@
 <img src="imgs/vct.jpg" alt="" width="20%" />
 </p>
 
-
+<h3 align="left">Sponsors:</h3>
+<p align="center">
+<img src="imgs/sponsors.jpg" alt="" width="100%" />
+</p>
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
