@@ -1,5 +1,7 @@
 # Hi 👋, We're REALTechLab
-
+<p align="center">
+<img src="imgs/cover.png" alt="" width="100%" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=REALTechLab&label=Profile views&color=0e75b6&style=flat" alt="REALTechLab" /> </p>
 
 - 💬 Ask me about **C++, C#, Gazebo Sim, ROS2, UAV, Robotics**
