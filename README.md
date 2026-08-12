@@ -17,6 +17,7 @@
 | ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/9385ce26ff58af54c8d1a2a0e81be355d1dc430d114fed63.jpg) | Name: Dr. Hoang T. TranRole: Researcher |
 | ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/6d3be33e6a6d0e9215178988a2c2b1bb3269939daf507167.jpg) | Name: Thanh C. VoRole: Researcher       |
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/REALTechLab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="REALTechLab" height="30" width="40" /></a>
