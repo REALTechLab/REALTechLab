@@ -8,7 +8,7 @@
 
 - 📫 How to reach us **admin@rltlab.io.vn**
 
-- 👨‍💻 All of our research areas/projects are available at **[My profile](https://http://rltlab.io.vn/**
+- 👨‍💻 All of our research areas/projects are available at **[My profile](http://rltlab.io.vn/**
 
 <h3 align="left">Core Members:</h3>
 
