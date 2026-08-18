@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **C++, C#, Gazebo Sim, ROS2, UAV, Robotics**
 
-- 📫 How to reach us **tranthangdong@gmail.com**
+- 📫 How to reach us **admin@rltlab.io.vn**
 
-- 👨‍💻 All of our research areas/projects are available at **[My profile](https://iae.duytan.edu.vn/nhan-su/1-tran-le-thang-dong)**
+- 👨‍💻 All of our research areas/projects are available at **[My profile](https://http://rltlab.io.vn/**
 
 <h3 align="left">Core Members:</h3>
 
