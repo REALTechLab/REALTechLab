@@ -1,5 +1,19 @@
 # Hi 👋, We're REALTechLab
 
+<p align="justify">Established in 2021 by Dr. Dong LT. Tran (Vietnamese: Trần Lê Thăng Đồng), the REALTech Laboratory – Research, Engineering, Applied, and Learning – is located at the Institute of Aerospace Engineering and Technology, Duy Tan University, Da Nang City, Vietnam.</p>
+
+<p align="justify">True to its acronym, the lab is built upon four core pillars: Rigorous fundamental Research, hands-on Engineering in both hardware and software, practical Applied solutions that address real-world industrial demands, and a strong commitment to Learning – where knowledge is not merely acquired but is tested, shared, and evolved through doing.</p>
+
+<p align="justify">Operating at the intersection of robotics, unmanned aerial vehicles (UAVs), artificial intelligence (AI), and image processing, we develop advanced algorithms and computational tools to solve critical challenges in electronic engineering. Beyond our internal research, we believe in the philosophy of "open science", regularly sharing open-source resources to foster transparency and growth within the global research community.</p>
+
+<p>Our core research domains include:</p>
+
+- **Intelligent automation and embedded electronic control systems**
+
+- **Adaptive control architectures for human-robot interaction**
+
+- **Nonlinear modeling and autonomous flight control systems for UAVs**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=REALTechLab&label=Profile views&color=0e75b6&style=flat" alt="REALTechLab" /> </p>
 
 - 💬 Ask me about **C++, C#, Gazebo Sim, ROS2, UAV, Robotics**
