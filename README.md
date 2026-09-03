@@ -1,5 +1,7 @@
 # Hi 👋, We're REALTechLab
 
+<img src="imgs/cover.png" alt="" width="100%" />
+
 <p align="justify">Established in 2021 by Dr. Dong LT. Tran (Vietnamese: Trần Lê Thăng Đồng), the REALTech Laboratory – Research, Engineering, Applied, and Learning – is located at the Institute of Aerospace Engineering and Technology, Duy Tan University, Da Nang City, Vietnam.</p>
 
 <p align="justify">True to its acronym, the lab is built upon four core pillars: Rigorous fundamental Research, hands-on Engineering in both hardware and software, practical Applied solutions that address real-world industrial demands, and a strong commitment to Learning – where knowledge is not merely acquired but is tested, shared, and evolved through doing.</p>
